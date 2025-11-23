@@ -5,6 +5,12 @@ java program27_1
 
 ## Sample Input/Output
 
-Input : 5
+Input : iRow = 4 iCol = 3
 
-Output : A B C D E
+Output : 
+
+         *    *    *
+         *    *    *
+         *    *    *
+         *    *    *
+  
