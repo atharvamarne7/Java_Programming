@@ -1,2 +1,2 @@
 # Java_Programming
-Programs and Assignments Java
+Programs and Assignments in Java
